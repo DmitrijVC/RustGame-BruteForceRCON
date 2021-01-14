@@ -9,3 +9,7 @@ Just install all the requirements from `requirements.txt`, and run `main.py`
 
 ## Usefull links
 https://developer.valvesoftware.com/wiki/Master_Server_Query_Protocol
+
+## Screenshoots
+
+<image src="https://image.prntscr.com/image/DsUNrU2ZQrCrinDr6eSTWw.png">
