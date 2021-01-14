@@ -1,0 +1,6 @@
+/.idea
+/ErrorHandling
+/venv
+test.py
+*.pyc
+*.pyd
